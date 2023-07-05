@@ -25,7 +25,7 @@ json:
   # demo: https://hacked-jekyll.netlify.app
   # source: https://github.com/piazzai/hacked-jekyll
   profiles:
-    mastodon: https://www.tedcarstensen.social
+    mastodon: https://tedcarstensen.social/@ted
     linkedin: https://www.linkedin.com/in/tedcarstensen/
     github: https://github.com/tedcarstensen
     heavybit: https://www.heavybit.com/team/ted-carstensen
