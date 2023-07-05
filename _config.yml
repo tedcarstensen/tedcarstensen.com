@@ -9,8 +9,7 @@ url: https://tedcarstensen.com
 # can be declared either as a single string or as a string array/hash
 json:
   name: Ted Carstensen
-  description:
-    - Howdy, 
+  description: howdy, i'm ted, it's nice to meet you. come say hello at any of the links below.
   # cv: assets/cv.pdf
   # address:
   #   - University of Jekyll
